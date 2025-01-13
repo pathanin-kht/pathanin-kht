@@ -7,7 +7,7 @@ Internship Student
 I'm a third-year Computer Science student at Khon Kaen University with experience in IoT, software development, and data analysis. I've worked on projects like a smart agriculture system for Wolffia cultivation and real-time environmental monitoring. I'm eager to apply my skills in a tech internship.
 
 * 🌍  I'm based in Thailand, Khon Kaen
-* 🖥️  See my portfolio at [Github Page](http://https://pathanin-kht.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Github Page](https://pathanin-kht.github.io/Portfolio/)
 * ✉️  You can contact me at [pathanin-kht@gmail.com](mailto:pathanin-kht@gmail.com)
 * 🧠  I'm learning new technologies and techniques in IoT, software development, and machine learning.
 * 🤝  I'm open to collaborating on innovative projects that address real-world problems and contribute to technological advancements.
