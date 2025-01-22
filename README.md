@@ -15,7 +15,7 @@
   <a href="https://medium.com/@pathanin.kht" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
   </a>
-  <a href="pathanin-kht.github.io/Portfolio" target="_blank">
+  <a href="pathanin-kht.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
