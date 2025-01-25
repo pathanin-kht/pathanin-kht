@@ -22,7 +22,6 @@
 
 Internship Student
 ------------------
-
 I'm a third-year Computer Science student at Khon Kaen University with experience in IoT, software development, and data analysis. I've worked on projects like a smart agriculture system for Wolffia cultivation and real-time environmental monitoring. I'm eager to apply my skills in a tech internship.
 
 * 🌍  I'm based in Thailand, Khon Kaen
